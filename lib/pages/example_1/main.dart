@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'pages/square_page.dart';
+import 'square_page.dart';
 
 void main() => runApp(const MyApp());
 
